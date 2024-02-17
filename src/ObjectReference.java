@@ -3,4 +3,7 @@ public class ObjectReference {
         pubilc void m(){
 
     }
+    public void m1(){
+            
+        }
 }
